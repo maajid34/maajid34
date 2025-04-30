@@ -6,6 +6,9 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/153346167?v=4" height="150" alt="My Profile Picture" style="border-radius: 10px; margin-right: 10px;"/>
 
 ###
+<div align="center">
+  <p>eng maajid is fullstack webdeveloper</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maajid34&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
